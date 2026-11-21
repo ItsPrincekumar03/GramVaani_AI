@@ -85,3 +85,10 @@ checkpoints/
 # Uploaded audio (optional)
 # ==========================
 temp/
+
+# ==========================
+# User uploads and private data
+# ==========================
+uploads/
+data/*.db
+!data/.gitkeep
